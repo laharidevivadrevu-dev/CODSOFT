@@ -1,8 +1,4 @@
-# CODSOFT Web Development Internship
-
-This repository serves as a professional showcase of the tasks completed during my internship at **CODSOFT**.
-
----
+# LAHARI DEVI-PERSONAL PORTFOLIO
 
 ## 👋 About Me
 I am **Lahari**, a passionate **Web Developer** and **Digital Creator**. I specialize in building modern, responsive user interfaces and integrating AI-driven creativity into my projects. My goal is to create seamless digital experiences that combine clean code with high-quality design.
