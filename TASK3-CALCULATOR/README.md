@@ -1,4 +1,4 @@
-🧮 Blue Math Animated Calculator
+🧮Calculator
 
 A stylish and responsive web-based calculator built using HTML, CSS, and JavaScript.
 This calculator features a beautiful blue animated background with floating mathematical symbols and a modern black calculator UI.
@@ -22,7 +22,9 @@ This calculator features a beautiful blue animated background with floating math
 	•	HTML5
 	•	CSS3 (Animations, Grid, Responsive Design)
 	•	JavaScript (DOM manipulation & calculation logic)
-    📂 Project Structure
+
+	
+📂 Project Structure
     calculator/
 │── index.html
 │── style.css
